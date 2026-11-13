@@ -1,0 +1,21 @@
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# Java
+backend/target/
+backend/logs/
+*.class
+*.jar
+
+# Frontend
+fronted-admin/node_modules/
+fronted-admin/dist/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Env
+*.env.local
